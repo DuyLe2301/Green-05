@@ -1,0 +1,10 @@
+.header{
+    margin-bottom: 16px;
+
+}
+.header h2 {
+    margin-bottom: 0;
+}
+.border1 {
+    border: 1px solid black;
+}

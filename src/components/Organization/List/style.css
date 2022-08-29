@@ -1,0 +1,14 @@
+.user {
+    border: 1px solid #eeeeee;
+    border-radius: 16px;
+    padding: 8px;
+    margin-left: 20px;
+}
+.vien {
+    border-radius: 5px;
+    margin:0 5px ;
+    background-color: rgb(2, 2, 2);
+    height: 33px;
+    padding: auto;
+    color: #fbfbfb;
+}
